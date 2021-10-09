@@ -77,9 +77,9 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """Hey there 👋! My name is *Sophia*.\n\nI can help manage your groups with useful features, feel free to add me to your groups!."""
 
 STICKERS = (
-      "CAACAgUAAx0CTpRfGwACF41hMfagTfWdHNFici1VtOCQVVNYmgACgh8AAsZRxhU6tKJa_ySnnCAE",
-      "CAACAgUAAx0CTpRfGwACF5phMfi5vgKwQFg6KuzHiEc79QFT0QACCR4AAsZRxhVu32VqEb3_1SAE",
-      "CAACAgUAAx0CTpRfGwACGIBhQcGJDHuuXsU5el3I86SEx3nTpgAC2R8AAsZRxhUpEe6EcVukQCAE",
+      "CAACAgUAAxkBAAJKD2FhLbm4YpEySljTF24GYrY-zpuuAAJSAwAC--gJV3KN4f1PJ00pIQQ",
+      "CAACAgUAAxkBAAJKEGFhLbwAAWkdc4_g4mVdXTMIRuOINAACAwMAAoX0CFcrys-9BKZ5jyEE",
+      "CAACAgUAAxkBAAJKEWFhLb1LmEJyYLe1n1VspuIeniCsAAKJAwAC54AJV-xPOoTvfBmQIQQ",
 )    
 
 
